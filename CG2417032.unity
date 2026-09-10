@@ -1117,3 +1117,8 @@ SceneRoots:
   - {fileID: 410087041}
   - {fileID: 832575519}
   - {fileID: 1012552677}
+
+
+git add .
+git commit -m "feat: S03 폴더 구조 및 기본 스크립트 생성"
+
